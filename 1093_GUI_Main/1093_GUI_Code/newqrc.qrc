@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Raytech.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+debug/modbus-rtu.o
+debug/modbus.o
+debug/crcdata.o
+debug/currentdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/modbus-interface.o
+debug/writedatadailog.o
+debug/qrc_newqrc.o
+debug/moc_currentdialog.o
+debug/moc_mainwindow.o
+debug/moc_writedatadailog.o

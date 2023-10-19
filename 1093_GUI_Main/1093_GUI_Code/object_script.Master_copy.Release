@@ -1,0 +1,12 @@
+release/modbus-rtu.o
+release/modbus.o
+release/crcdata.o
+release/currentdialog.o
+release/main.o
+release/mainwindow.o
+release/modbus-interface.o
+release/writedatadailog.o
+release/qrc_newqrc.o
+release/moc_currentdialog.o
+release/moc_mainwindow.o
+release/moc_writedatadailog.o
